@@ -1,0 +1,2 @@
+hello="ШАЛАВА"
+print(hello)
