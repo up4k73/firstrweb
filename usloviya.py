@@ -11,3 +11,12 @@ if 'green' in aliencolor:
     print("wrong color")
 elif 'black' in aliencolor:
         print("google")
+
+
+age = 35
+if age < 5:
+    print("you suck")
+elif age < 20:
+    print("fuck")
+elif age < 45:
+    print("motherfucker")
