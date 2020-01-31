@@ -81,7 +81,7 @@ print(len(gosti))
 ############Задание#############
 strany = ['tunis', 'turciya', 'canada', 'belgiya', 'germaniya']
 strany.sort()
-print(strany)
+print(strany)    
 
 
 
