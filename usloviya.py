@@ -20,3 +20,12 @@ elif age < 20:
     print("fuck")
 elif age < 45:
     print("motherfucker")
+
+
+requested_toppings = []
+if requested_toppings:
+    for requested_topping in requested_toppings:
+        print("adding "+ requested_topping + " .")
+    print("\nFinished making yout pizza!")
+else:
+    print("Are you shure you want a plain pizza?")
